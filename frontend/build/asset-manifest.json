@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gu99k/Employee-Management-Crud-app/static/css/main.886d14c0.css",
+    "main.js": "/Gu99k/Employee-Management-Crud-app/static/js/main.519831dc.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Gu99k/Employee-Management-Crud-app/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/Gu99k/Employee-Management-Crud-app/index.html",
+    "main.886d14c0.css.map": "/Gu99k/Employee-Management-Crud-app/static/css/main.886d14c0.css.map",
+    "main.519831dc.js.map": "/Gu99k/Employee-Management-Crud-app/static/js/main.519831dc.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Gu99k/Employee-Management-Crud-app/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.886d14c0.css",
+    "static/js/main.519831dc.js"
+  ]
+}
