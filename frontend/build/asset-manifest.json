@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gu99k/Employee-Management-Crud-app/static/css/main.886d14c0.css",
-    "main.js": "/Gu99k/Employee-Management-Crud-app/static/js/main.519831dc.js",
-    "static/js/787.9e9f4ffd.chunk.js": "/Gu99k/Employee-Management-Crud-app/static/js/787.9e9f4ffd.chunk.js",
-    "index.html": "/Gu99k/Employee-Management-Crud-app/index.html",
-    "main.886d14c0.css.map": "/Gu99k/Employee-Management-Crud-app/static/css/main.886d14c0.css.map",
-    "main.519831dc.js.map": "/Gu99k/Employee-Management-Crud-app/static/js/main.519831dc.js.map",
-    "787.9e9f4ffd.chunk.js.map": "/Gu99k/Employee-Management-Crud-app/static/js/787.9e9f4ffd.chunk.js.map"
+    "main.css": "/static/css/main.886d14c0.css",
+    "main.js": "/static/js/main.89c5ad39.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/index.html",
+    "main.886d14c0.css.map": "/static/css/main.886d14c0.css.map",
+    "main.89c5ad39.js.map": "/static/js/main.89c5ad39.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.886d14c0.css",
-    "static/js/main.519831dc.js"
+    "static/js/main.89c5ad39.js"
   ]
 }
