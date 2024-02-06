@@ -15,6 +15,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 con.connect((error) => {
   if (error) {
     return error;
+  } else {
+    console.log("DB connected");
   }
   // ====================Get All Record API=============================
   app.get("/api/get", (req, resp) => {
@@ -95,7 +97,7 @@ con.connect((error) => {
 });
 // static files
 app.use(express.static(path.join(__dirname, "./frontend/build")));
-app.get("*", (req, res) => {
+app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "./frontend/build/index.html"));
 });
 
